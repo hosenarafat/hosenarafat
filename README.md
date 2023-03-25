@@ -1,4 +1,4 @@
-![MasterHead](https://www.uat.edu/media/data-science-banner.png)
+![MasterHead](https://www.dataquest.io/wp-content/uploads/2019/04/py1m1_curriculum.gif)
 <h1 align="center">Hello Dear 👋, I'm HOSEN ARAFAT</h1>
 <h3 align="center">A passionate Data Scientist from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
@@ -13,7 +13,6 @@
 - 🤝 I’m looking for help with **Machine learning**
 - 💬 Ask me about **C++, JavaScript, Html, CSS, Python, R, Machine Learning, Deep learning, Tableau, NumPy, Pands, SQL, MongoDB, Spark, Hadoop, Matlab, Artificial intelligence**
 - 👨‍💻 All of my projects are available at [HOSEN ARAFAT](https://github.com/hosenarafat)
-- 👯 Here is my social media facebook stay connect with me [Arafat Hosen](https://www.facebook.com/arafathosenbd)
 - 📫 How to reach me **arafat.hosen@qq.com**
 
 - ⚡ Fun fact **I think i'm Funny**
