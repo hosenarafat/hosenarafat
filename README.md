@@ -1,4 +1,4 @@
-![MasterHead](https://www.dataquest.io/wp-content/uploads/2019/04/py1m1_curriculum.gif)
+![MasterHead](https://godigitallaagencia.com/wp-content/uploads/2020/06/web-developer.gif)
 <h1 align="center">Hello Dear 👋, I'm HOSEN ARAFAT</h1>
 <h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **PHP, Mysql**
 - 🤝 I’m looking for help with **JavaScript**
-- 💬 Ask me about **Html, CSS, JavaScript, SCSS, PHP, Mysql, Python, R, Machine Learning, Deep learning, Tableau, NumPy, Pands, SQL, MongoDB, Spark, Hadoop, Matlab, Artificial intelligence**
+- 💬 Ask me about **Html, CSS, JavaScript, Bootstrap, SCSS, PHP, Mysql, MongoDB, Python, R, Machine Learning, Deep learning, Tableau, NumPy, Pands, Spark, Hadoop, Matlab, Artificial intelligence**
 - 👨‍💻 All of my projects are available at [HOSEN ARAFAT](https://github.com/hosenarafat)
 - 📫 How to reach me **arafat.hosen@qq.com**
 
