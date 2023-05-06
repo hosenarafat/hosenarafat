@@ -9,9 +9,9 @@
 - 🔭 I’m currently working on [China Bangladesh Students Society](cbss2021.c0m)
 - 👯 I’m looking to collaborate on **Front-End Developer**
 
-- 🌱 I’m currently learning **JavaScript**
-- 🤝 I’m looking for help with **PHP**
-- 💬 Ask me about **Html, CSS, JavaScript, SCSS, PHP, Python, R, Machine Learning, Deep learning, Tableau, NumPy, Pands, SQL, MongoDB, Spark, Hadoop, Matlab, Artificial intelligence**
+- 🌱 I’m currently learning **PHP, Mysql**
+- 🤝 I’m looking for help with **JavaScript**
+- 💬 Ask me about **Html, CSS, JavaScript, SCSS, PHP, Mysql, Python, R, Machine Learning, Deep learning, Tableau, NumPy, Pands, SQL, MongoDB, Spark, Hadoop, Matlab, Artificial intelligence**
 - 👨‍💻 All of my projects are available at [HOSEN ARAFAT](https://github.com/hosenarafat)
 - 📫 How to reach me **arafat.hosen@qq.com**
 
