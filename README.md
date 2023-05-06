@@ -1,17 +1,17 @@
 ![MasterHead](https://www.dataquest.io/wp-content/uploads/2019/04/py1m1_curriculum.gif)
 <h1 align="center">Hello Dear 👋, I'm HOSEN ARAFAT</h1>
-<h3 align="center">A passionate Data Scientist from Bangladesh</h3>
+<h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hosenarafat&label=Profile%20views&color=0e75b6&style=flat" alt="hosenarafat" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [China Bangladesh Students Society](cbss2021.c0m)
-- 👯 I’m looking to collaborate on **Data Science**
+- 👯 I’m looking to collaborate on **Front-End Developer**
 
-- 🌱 I’m currently learning **Machine learning**
-- 🤝 I’m looking for help with **Machine learning**
-- 💬 Ask me about **C++, JavaScript, Html, CSS, Python, R, Machine Learning, Deep learning, Tableau, NumPy, Pands, SQL, MongoDB, Spark, Hadoop, Matlab, Artificial intelligence**
+- 🌱 I’m currently learning **JavaScript**
+- 🤝 I’m looking for help with **PHP**
+- 💬 Ask me about **Html, CSS, JavaScript, SCSS, PHP, Python, R, Machine Learning, Deep learning, Tableau, NumPy, Pands, SQL, MongoDB, Spark, Hadoop, Matlab, Artificial intelligence**
 - 👨‍💻 All of my projects are available at [HOSEN ARAFAT](https://github.com/hosenarafat)
 - 📫 How to reach me **arafat.hosen@qq.com**
 
