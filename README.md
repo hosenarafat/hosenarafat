@@ -1,4 +1,4 @@
-![MasterHead](https://animated-gif-creator.com/images/01/custom-logo-design-for-your-business-knb-logos_76.gif)
+![MasterHead](https://th.bing.com/th/id/R.00cd5988643a5046f294396c48bc42e6?rik=BevlsW6FO3ePSw&pid=ImgRaw&r=0.gif)
 <h1 align="center">Hello Dear 👋, I'm HOSEN ARAFAT</h1>
 <h3 align="center">A passionate Data Scientist from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
